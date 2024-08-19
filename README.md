@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasgcosta3&show_icons=true&count_private=true&hide_border=true&title_color=7305f0&icon_color=7305f0&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Gomes da Costa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgcosta3&layout=compact&hide_border=true&title_color=7305f0&text_color=7305f0&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgcosta3&layout=compact&hide_border=true&title_color=7305f0&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 
